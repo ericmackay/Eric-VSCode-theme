@@ -1,0 +1,22 @@
+{
+    "name": "eric-colors",
+    "displayName": "Eric-Colors",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "eric",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Yr-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Yr-theme-color-theme.json"
+            }
+        ]
+    }
+}
