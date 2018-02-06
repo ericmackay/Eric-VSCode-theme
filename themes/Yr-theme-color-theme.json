@@ -35,7 +35,7 @@
     "scrollbarSlider.activeBackground": "#ff408150",
     "progressBar.background": "#faa4c1",
     "editor.background": "#292d3e",
-    "editor.foreground": "#3f455f",
+    "editor.foreground": "#a2ace6ad",
     "editorWidget.background": "#292d3e",
     "editor.selectionBackground": "#717cb450",
     "editor.selectionHighlightBackground": "#ff265c50",
@@ -146,7 +146,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#a6accd60"
+        "foreground": "#a2ace6ad"
       }
     },
     {
@@ -719,14 +719,14 @@
         "markup.inline.raw.string.markdown"
       ],
       "settings": {
-        "foreground": "#A6ACCD90"
+        "foreground": "#a2ace6ad"
       }
     },
     {
       "name": "Markdown - Fenced Language",
       "scope": ["variable.language.fenced.markdown"],
       "settings": {
-        "foreground": "#4E5579"
+        "foreground": "#a2ace6ad"
       }
     },
     {
@@ -735,7 +735,7 @@
       "settings": {
         "fontStyle": "bold",
         "background": "#00000050",
-        "foreground": "#4E5579"
+        "foreground": "#a2ace6ad"
       }
     },
     {
